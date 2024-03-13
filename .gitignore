@@ -1,0 +1,13 @@
+/node_modules
+/build
+.env.development
+.env
+
+# Dependencies
+package-lock.json
+
+# Local Netlify folder
+.netlify
+
+# IntelliJ files
+/.idea
